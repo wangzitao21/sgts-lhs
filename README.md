@@ -47,9 +47,7 @@ This case study requires the MODFLOW 6 executable.
 
 1.  Download MODFLOW 6:
 
-Download the appropriate executable for your operating system from the official repository:
-
-- [https://github.com/MODFLOW-ORG/executables](https://github.com/MODFLOW-ORG/executables)
+Download the appropriate executable for your operating system from the official repository: [https://github.com/MODFLOW-ORG/executables](https://github.com/MODFLOW-ORG/executables)
 
 2.  Place the executable:
 
