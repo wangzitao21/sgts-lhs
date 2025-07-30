@@ -1,4 +1,4 @@
-# SGTS-LHS Framework
+# SGTS-LHS
 
 This repository provides the official implementation and replication package for the paper "Enhancing Surrogate Assisted Optimization with SHAP Guided Two-Stage Sampling".
 
